@@ -41,7 +41,7 @@ bashpip install opencv-python numpy
 
 Clone the repository:
 
-bash   git clone https://github.com/your-username/invisible-cloak.git
+bash   git clone https://github.com/Charu041203/invisible-cloak.git
    cd invisible-cloak
 
 Run the script:
